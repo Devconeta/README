@@ -24,10 +24,17 @@ Party making system leveraging the etherical power of Smart Contracts.<br/>
 - Twitter: https://twitter.com/axelgg__
 - Github: https://github.com/AxelGes
 
+### Esteban Viera - Fullstack Developer
+
+- Linkedin: https://www.linkedin.com/in/esteban-viera
+- Twitter: https://twitter.com/0xstev3
+- Github: https://github.com/Esteban-V
+
 ## Tech stack
- - Frontend: Next.js, TailwindCSS, NextUI, Rainbowkit, Wagmi, Ethers.js
- - Backend: Nestjs, Nodejs, PostgreSQL
- - Blockchain: Solidity, Hardhat, Chai, hardhat-gas-reporter, hardhat-coverage, OpenZepellin, IPFS
+
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, TailwindCSS, RainbowKit, WAGMI, EtherJS, react-select, NextUI.
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Nest.js, Typeorm, Postgres, js-ipfs
+- 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻: Solidity, Hardhat, Chai, hardhat-gas-reporter, hardhat-coverage, OpenZepellin, IPFS.
  
  ### Roadmap
  - Closed Alpha
