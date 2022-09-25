@@ -18,6 +18,12 @@ Party making system leveraging the etherical power of Smart Contracts.<br/>
 - Twitter: https://twitter.com/nv_cho
 - Github: https://github.com/nv-cho
 
+### Axel Geslin - Fullstack Developer
+
+- Linkedin: https://www.linkedin.com/in/axelgeslin/
+- Twitter: https://twitter.com/axelgg__
+- Github: https://github.com/AxelGes
+
 ## Tech stack
  - Frontend: Next.js, TailwindCSS, NextUI, Rainbowkit, Wagmi, Ethers.js
  - Backend: Nestjs, Nodejs, PostgreSQL
@@ -25,6 +31,7 @@ Party making system leveraging the etherical power of Smart Contracts.<br/>
  
  ### Roadmap
  - Closed Alpha
+ - Fully working matchmaking and smart contract system.
  - Full integration with Lens Protocol
  - Integration with POAP and mintkudos.xyz to award teams
  - On-chain teams interaction Graph
