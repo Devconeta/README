@@ -1,7 +1,5 @@
 # ETHBogotá hackathon build: MyPFS
-Looking for group is the decentralized tool to go when you want to get the most out of a hackathon.<br/>
-We created the space for people with different skills to connect and hack together.<br/>
-Party making system leveraging the etherical power of Smart Contracts.<br/>
+
 
 ## Members:
 
@@ -39,7 +37,7 @@ Party making system leveraging the etherical power of Smart Contracts.<br/>
 ## Tech stack
 
 - 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, TailwindCSS, Ethers.js, NextUI, React Dropzone
-- SDK & Blockchain: IPFS, FILECOIN, Web3Storage, Ethers.js, TypeScript, Solidity, Polygon, MetaMask Flask Snaps, Asymetric Encryption
+- **SDK & Blockchain**: IPFS, FILECOIN, Web3Storage, Ethers.js, TypeScript, Solidity, Polygon, MetaMask Flask Snaps, Asymetric Encryption
  
  ### Roadmap
 
