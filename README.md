@@ -1,4 +1,4 @@
-# LookingForGroup
+# ETHBogotá hackathon build: MyPFS
 Looking for group is the decentralized tool to go when you want to get the most out of a hackathon.<br/>
 We created the space for people with different skills to connect and hack together.<br/>
 Party making system leveraging the etherical power of Smart Contracts.<br/>
@@ -30,16 +30,16 @@ Party making system leveraging the etherical power of Smart Contracts.<br/>
 - Twitter: https://twitter.com/0xstev3
 - Github: https://github.com/Esteban-V
 
+### Laín Calvo - Industrial Engineering Student
+
+- Linkedin: https://www.linkedin.com/in/laincalvo/
+- Twitter: https://twitter.com/lain_calvo
+
+
 ## Tech stack
 
-- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, TailwindCSS, RainbowKit, WAGMI, EtherJS, react-select, NextUI.
-- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Nest.js, Typeorm, Postgres, js-ipfs
-- 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻: Solidity, Hardhat, Chai, hardhat-gas-reporter, hardhat-coverage, OpenZepellin, IPFS.
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, TailwindCSS, Ethers.js, NextUI, React Dropzone
+- SDK & Blockchain: IPFS, FILECOIN, Web3Storage, Ethers.js, TypeScript, Solidity, Polygon, MetaMask Flask Snaps, Asymetric Encryption
  
  ### Roadmap
- - Closed Alpha
- - Fully working matchmaking and smart contract system.
- - Full integration with Lens Protocol
- - Integration with POAP and mintkudos.xyz to award teams
- - On-chain teams interaction Graph
- - Open Beta on production
+
